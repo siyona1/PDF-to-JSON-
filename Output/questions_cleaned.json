@@ -1,0 +1,49 @@
+[
+  {
+    "question": "1. Find the next figures in the figure pattern given below. .",
+    "questions_images": [
+      "output\\images\\page1_img0.png",
+      "output\\images\\page1_img1.png"
+    ],
+    "answer_option_images": [
+      "output\\images\\page1_img2.png",
+      "output\\images\\page1_img3.png",
+      "output\\images\\page1_img4.png",
+      "output\\images\\page1_img5.png"
+    ]
+  },
+  {
+    "question": "2. Complete the number pattern. 2",
+    "questions_images": [
+      "output\\images\\page1_img6.png"
+    ],
+    "answer_option_images": [
+      "output\\images\\page1_img7.png",
+      "output\\images\\page1_img8.png",
+      "output\\images\\page1_img9.jpeg",
+      "output\\images\\page2_img11.png"
+    ]
+  },
+  {
+    "question": "3. In the questions given below, the series with one or more terms figures are missing marked with ‘?’. Choose the correct option to replace the ‘?’ mark(s).",
+    "questions_images": [
+      "output\\images\\page2_img12.png"
+    ],
+    "answer_option_images": []
+  },
+  {
+    "question": "4. Number of the groups of 9 paper clips ( ) shown here is",
+    "questions_images": [
+      "output\\images\\page2_img13.png",
+      "output\\images\\page2_img14.jpeg"
+    ],
+    "answer_option_images": []
+  },
+  {
+    "question": "5. How many bananas are kept outside the basket?",
+    "questions_images": [
+      "output\\images\\page2_img15.png"
+    ],
+    "answer_option_images": []
+  }
+]
